@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+**Amazingly** few *discotheques* provide jukeboxes
 Use the left arrow to go back!
